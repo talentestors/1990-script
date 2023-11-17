@@ -13,7 +13,7 @@ Make your GitHub history back to 1990.
 Run the following script
 
 ```bash
-$ sh -c "$(curl -fsSL https://raw.github.com/antfu/1990-script/master/index.sh)"
+sh -c "$(curl -fsSL https://raw.github.com/talentestors/1990-script/master/index.sh)"
 ```
 
 Enter you GitHub username and access token and then you are done :)
